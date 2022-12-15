@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "bulldog-4bbef": {
+      "hosting": {
+        "BulldogIO": [
+          "bulldog-4bbef"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "bulldog-4bbef"
+  }
+}
