@@ -2,14 +2,13 @@ import { CommonModule } from "@angular/common";
 import { ChangeDetectionStrategy, Component } from "@angular/core";
 
 @Component({
-  selector: "bldg-intro",
+  selector: "bldg-features",
   standalone: true,
   imports: [CommonModule],
-  templateUrl: "./intro.view.html",
-  styles: [
-  ],
+  templateUrl: "./features.view.html",
+  styles: [],
   changeDetection: ChangeDetectionStrategy.OnPush
 })
-export class IntroView {
-
+export class FeaturesView {
+  constructor() {}
 }
