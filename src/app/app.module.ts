@@ -6,6 +6,7 @@ import { CoreModule } from "@bulldog/core/core.module";
 import { FeaturesView } from "@bulldog/shared/components/features/features.view";
 import { HeaderView } from "@bulldog/shared/components/header/header.view";
 import { IntroView } from "@bulldog/shared/components/intro/intro.view";
+import { StatsView } from "@bulldog/shared/components/stats/stats.view";
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { IntroView } from "@bulldog/shared/components/intro/intro.view";
     CoreModule,
     HeaderView,
     IntroView,
-    FeaturesView
+    FeaturesView,
+    StatsView
   ],
   providers: [],
   bootstrap: [AppComponent]
