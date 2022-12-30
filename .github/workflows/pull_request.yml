@@ -1,4 +1,4 @@
-name: PR Checks
+name: Bulldog Checks
 
 on:
   pull_request:
