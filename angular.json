@@ -106,6 +106,14 @@
               "src/**/*.html"
             ]
           }
+        },
+        "deploy": {
+          "builder": "@netlify-builder/deploy:deploy",
+          "options": {
+            "outputPath": "dist/bulldog-io",
+            "netlifyToken": "KamNOkqc2kbRMJrT1-eYimGI5X4u7FXhIqhlcApWC5o",
+            "siteId": "c4ebec23-5ba3-4c12-b768-642a487ec935"
+          }
         }
       }
     }

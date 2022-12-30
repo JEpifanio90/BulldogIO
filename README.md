@@ -5,7 +5,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![BulldogHealth][bulldog-shield]][bulldog-url]
+[![Bulldog Health][bulldog-shield]][bulldog-url]
+[![Netlify Status][netlify-shield]][netlify-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -144,6 +145,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [bulldog-shield]: https://img.shields.io/github/actions/workflow/status/jepifanio90/bulldogio/prod.yml?style=for-the-badge
 
 [bulldog-url]: https://github.com/JEpifanio90/BulldogIO/actions/workflows/prod.yml
+
+[netlify-shield]: https://api.netlify.com/api/v1/badges/c4ebec23-5ba3-4c12-b768-642a487ec935/deploy-status?style=for-the-badge
+
+[netlify-url]: https://app.netlify.com/sites/relaxed-hummingbird-f7ba30/deploys
 
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 
