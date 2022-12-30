@@ -144,3 +144,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [bulldog-shield]: https://img.shields.io/github/actions/workflow/status/jepifanio90/bulldogio/prod.yml?style=for-the-badge
 
 [bulldog-url]: https://github.com/JEpifanio90/BulldogIO/actions/workflows/prod.yml
+
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+
+[Angular-url]: https://angular.io/
