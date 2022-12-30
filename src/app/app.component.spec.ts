@@ -2,12 +2,13 @@ import { TestBed } from "@angular/core/testing";
 import { RouterTestingModule } from "@angular/router/testing";
 import { MockComponent } from "ng-mocks";
 
+import { AppComponent } from "./app.component";
+
 import { FeaturesView } from "@bulldog/shared/components/features/features.view";
 import { HeaderView } from "@bulldog/shared/components/header/header.view";
 import { IntroView } from "@bulldog/shared/components/intro/intro.view";
 import { StatsView } from "@bulldog/shared/components/stats/stats.view";
 
-import { AppComponent } from "./app.component";
 
 describe("App Component", () => {
   beforeEach(async () => {
