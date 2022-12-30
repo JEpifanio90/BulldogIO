@@ -122,25 +122,25 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/jepifanio90/bulldog-cli.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/jepifanio90/bulldogio.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/jepifanio90/bulldog-cli/graphs/contributors
+[contributors-url]: https://github.com/jepifanio90/bulldogio/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/jepifanio90/bulldog-cli.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/jepifanio90/bulldogio.svg?style=for-the-badge
 
-[forks-url]: https://github.com/jepifanio90/bulldog-cli/network/members
+[forks-url]: https://github.com/jepifanio90/bulldogio/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/jepifanio90/bulldog-cli.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/jepifanio90/bulldogio.svg?style=for-the-badge
 
-[stars-url]: https://github.com/jepifanio90/bulldog-cli/stargazers
+[stars-url]: https://github.com/jepifanio90/bulldogio/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/jepifanio90/bulldog-cli.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/jepifanio90/bulldogio.svg?style=for-the-badge
 
-[issues-url]: https://github.com/jepifanio90/bulldog-cli/issues
+[issues-url]: https://github.com/jepifanio90/bulldogio/issues
 
-[license-shield]: https://img.shields.io/github/license/jepifanio90/bulldog-cli.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/jepifanio90/bulldogio.svg?style=for-the-badge
 
-[license-url]: https://github.com/jepifanio90/bulldog-cli/blob/master/LICENSE.txt
+[license-url]: https://github.com/jepifanio90/bulldogio/blob/master/LICENSE.txt
 
 [bulldog-shield]: https://img.shields.io/github/actions/workflow/status/jepifanio90/bulldogio/prod.yml?style=for-the-badge
 
