@@ -11,5 +11,5 @@ import { ChangeDetectionStrategy, Component } from "@angular/core";
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class IntroView {
-
+  constructor() { }
 }
